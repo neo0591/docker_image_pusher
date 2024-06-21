@@ -3,3 +3,6 @@ kasmweb/nginx:1.25.3
 python:alpine3.19
 flink:1.19.0-scala_2.12-java8
 flink:1.19.0-scala_2.12
+hyperledger/fabric-peer:2.4.9
+hyperledger/fabric-orderer:2.4
+hyperledger/fabric-ca:1.5
