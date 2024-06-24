@@ -9,3 +9,5 @@ hyperledger/fabric-ca:1.5
 hyperledger/fabric-orderer:2.4.9
 hyperledger/fabric-orderer:2.5.9
 hyperledger/fabric-peer:2.5.9
+hyperledger/fabric-tools:2.4.9
+hyperledger/fabric-tools:2.5.9
