@@ -14,4 +14,4 @@ hyperledger/fabric-tools:2.5.9
 hyperledger/fabric-ccenv:2.4.9
 hyperledger/fabric-ca:1.5.5
 hyperledger/fabric-baseos:2.4.9
-hyperledger/fabric-javaenv:2.4.9
+hyperledger/fabric-javaenv:2.4
