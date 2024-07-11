@@ -16,3 +16,8 @@ hyperledger/fabric-ca:1.5.5
 hyperledger/fabric-baseos:2.4.9
 hyperledger/fabric-javaenv:2.4
 goharbor/harbor-db:v2.5.1
+goharbor/trivy-adapter-photon:v2.5.1
+goharbor/redis-photon:v2.5.1
+goharbor/notary-signer-photon:v2.5.1
+goharbor/harbor-portal:v2.5.1
+goharbor/nginx-photon:v2.5.1
