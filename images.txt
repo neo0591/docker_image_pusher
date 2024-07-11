@@ -21,3 +21,4 @@ goharbor/redis-photon:v2.5.1
 goharbor/notary-signer-photon:v2.5.1
 goharbor/harbor-portal:v2.5.1
 goharbor/nginx-photon:v2.5.1
+goharbor/chartmuseum-photon:v2.5.1
