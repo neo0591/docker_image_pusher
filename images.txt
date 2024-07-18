@@ -22,3 +22,4 @@ goharbor/notary-signer-photon:v2.5.1
 goharbor/harbor-portal:v2.5.1
 goharbor/nginx-photon:v2.5.1
 goharbor/chartmuseum-photon:v2.5.1
+easzlab/nfs-subdir-external-provisioner:v4.0.2
