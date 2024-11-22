@@ -24,3 +24,4 @@ goharbor/nginx-photon:v2.5.1
 goharbor/chartmuseum-photon:v2.5.1
 easzlab/nfs-subdir-external-provisioner:v4.0.2
 flink:1.20.0-scala_2.12-java8
+flink:1.20.0-scala_2.12-java11
