@@ -26,3 +26,4 @@ easzlab/nfs-subdir-external-provisioner:v4.0.2
 flink:1.20.0-scala_2.12-java8
 flink:1.20.0-scala_2.12-java11
 flink:1.20.0-java11
+flink:1.20.0-scala_2.12
